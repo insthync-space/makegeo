@@ -4,8 +4,6 @@ https://github.com/kurtdekker/makegeo
 
 https://gitlab.com/kurtdekker/makegeo
 
-https://sourceforge.net/p/makegeo
-
 
 A frozen copy of Datasacks is present in this repo.
 
@@ -14,5 +12,3 @@ The live Datasacks is presently hosted at these locations:
 https://github.com/kurtdekker/datasacks
 
 https://gitlab.com/kurtdekker/datasacks
-
-https://sourceforge.net/projects/datasacks/
